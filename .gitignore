@@ -2,3 +2,4 @@ node_modules/
 .lighthouseci
 .hintrc
 .stylelintrc.json
+test.md
